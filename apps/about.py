@@ -44,7 +44,7 @@ def app():
                 Each image went through a preprocessing function that did the following:
 
                 1. convert into a grayscale image(1 channel image)
-                2. resize into 224x224
+                2. resize into 244x244
                 3. adjust contrast via histogram equalization
                 4. normalize pixel intensity values(from 0 to 1)
 
@@ -70,5 +70,5 @@ def app():
                 - [Scikit-learn](https://scikit-learn.org/stable/)
                 - [Numpy](https://numpy.org/)
 
-                ## [Full Notebook](https://github.com/JP-sDEV/Diabetic-Retinopathy-Classification)
+                ## [Full Notebook](https://github.com/PMK4095/Diabetic_Retinopathy_Webapp)
                 """)

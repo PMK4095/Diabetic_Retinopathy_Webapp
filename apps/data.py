@@ -6,7 +6,7 @@ def app():
     st.markdown("""
                 ## **Dataset**
 
-                ## **Original Dataset ([link](https://www.kaggle.com/amanneo/diabetic-retinopathy-resized-arranged))**
+                ## **Original Dataset ([link](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered))**
 
                 The dataset used to train and validate the model can be found on Kaggle. The original images have differing sizes, all have 3 color channels (RGB), and are all formatted as JPEGs.
 
